@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "5ec94974cb2195bbd9b78281",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 2,
+        "name": "Dairy",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 3,
+        "name": "Vegetables",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 4,
+        "name": "Utensils",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 1,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 5,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 6,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 7,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 8,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 9,
+        "name": "Spices",
+        "imageUrl": "image url"
+      },
+      {
+        "id": 10,
+        "name": "Spices",
+        "imageUrl": "image url"
+      }
+    ]
+  }
+]

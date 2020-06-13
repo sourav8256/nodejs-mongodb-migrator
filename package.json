@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mongodb-migration",
+  "version": "1.0.0",
+  "description": "Used for migrating data from one mongodb database to another.",
+  "main": "backup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav8256/nodejs-mongodb-migrator.git"
+  },
+  "author": "sourav mandal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourav8256/nodejs-mongodb-migrator/issues"
+  },
+  "homepage": "https://github.com/sourav8256/nodejs-mongodb-migrator#readme",
+  "dependencies": {
+    "mongoose": "^5.9.18"
+  }
+}

@@ -5,7 +5,7 @@ var path = require('path');
 
 var rootDir = path.resolve(__dirname, "");
 
-const conn = mongoose.createConnection("<database url>");
+const conn = mongoose.createConnection("mongodb://localhost:27017/pykup");
 
 
 

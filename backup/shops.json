@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "5ea900ad77eac038a8f93fc1",
+    "userid": "userid",
+    "password": "password",
+    "phoneNumber": "74463728372",
+    "profilePictureUrl": "a160121b521bc0d052a04642f6ee9de8.png",
+    "shopName": "shopName",
+    "shopCategory": "shopCategory",
+    "shopLocation": "shopLocation",
+    "shopDescription": "shopDescription",
+    "deliverSystem": true,
+    "__v": 0
+  },
+  {
+    "_id": "5eaa7c35ae4dcb39ec189be9",
+    "userid": "userid",
+    "password": "password",
+    "phoneNumber": "74463728372",
+    "profilePictureUrl": "764b67c6bfc6557982a6dadd4b7decce.png",
+    "shopName": "shopName",
+    "shopCategory": "shopCategory",
+    "shopLocation": "shopLocation",
+    "shopDescription": "shopDescription",
+    "deliverSystem": true,
+    "__v": 0
+  },
+  {
+    "_id": "5eaa7e7cf9a24036fc93e801",
+    "userid": "userid",
+    "password": "password",
+    "phoneNumber": "74463728372",
+    "profilePictureUrl": "81e6c6f32c84617234130bd0df3fb99d.png",
+    "shopName": "shopName",
+    "shopCategory": "shopCategory",
+    "shopLocation": "shopLocation",
+    "shopDescription": "shopDescription",
+    "deliverSystem": true,
+    "__v": 0
+  },
+  {
+    "_id": "5eaa7e81f9a24036fc93e804",
+    "userid": "userid",
+    "password": "password",
+    "phoneNumber": "74463728372",
+    "profilePictureUrl": "83da2c6e00256021b63e5e892f999c57.png",
+    "shopName": "shopName",
+    "shopCategory": "shopCategory",
+    "shopLocation": "shopLocation",
+    "shopDescription": "shopDescription",
+    "deliverSystem": true,
+    "__v": 0
+  },
+  {
+    "_id": "5ec92166efe5f138fcea59f1",
+    "userid": "userid",
+    "password": "password",
+    "phoneNumber": "74463728372",
+    "profilePictureUrl": "11d80ae846f10d878493dcc733985308.png",
+    "shopName": "shopName",
+    "shopCategory": 3,
+    "shopLocation": "shopLocation",
+    "shopDescription": "shopDescription",
+    "deliverSystem": true,
+    "__v": 0
+  }
+]
