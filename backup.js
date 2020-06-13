@@ -5,7 +5,7 @@ var path = require('path');
 
 var rootDir = path.resolve(__dirname, "");
 
-const conn = mongoose.createConnection("mongodb+srv://sourav:pass@cluster0.wyfk8.mongodb.net/pyckup");
+const conn = mongoose.createConnection("<database url>");
 
 
 
