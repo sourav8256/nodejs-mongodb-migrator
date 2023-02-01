@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sourav8256/nodejs-mongodb-migrator#readme",
   "dependencies": {
-    "mongoose": "^5.9.18"
+    "mongoose": "^5.13.15"
   }
 }
